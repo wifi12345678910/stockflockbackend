@@ -1,0 +1,4 @@
+name: hacklytics
+channels:
+  - defaults
+prefix: C:\ProgramData\Anaconda3\envs\hacklytics
